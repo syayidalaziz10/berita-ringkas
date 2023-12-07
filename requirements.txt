@@ -1,0 +1,7 @@
+streamlit
+pandas
+nltk
+rouge
+networkx
+scikit-learn
+
