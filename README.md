@@ -9,8 +9,8 @@ Selain dapat membuat ringkasan secara otomatis, pada project ini juga dapat memb
 
 ## Documentation 📖
 
-Berikut merupakan beberapa langkah-langkah untuk membuat sebuah ringkasan teks menggunakan konsep Naturale Languange Processing
-[Baca dokumentasi disini](https://syayidalaziz10.github.io/news_summarization/)
+Berikut merupakan beberapa langkah-langkah untuk membuat sebuah ringkasan teks yang telah saya buat menggunakan konsep Naturale Languange Processing
+[Baca dokumentasi disini](https://syayidalaziz10.github.io/news_summarization/) 👈
 
 ## Contributors ✨
 
