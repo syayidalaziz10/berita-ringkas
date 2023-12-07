@@ -12,6 +12,12 @@ Selain dapat membuat ringkasan secara otomatis, pada project ini juga dapat memb
 Berikut merupakan beberapa langkah-langkah untuk membuat sebuah ringkasan teks yang telah saya buat menggunakan konsep Naturale Languange Processing
 [Baca dokumentasi disini](https://syayidalaziz10.github.io/news_summarization/) 👈
 
+## Built With 
+
+Berikut merupakan beberapa tech dan framework yang digunakan untuk mengembangkan project ini. <br><br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people 👌
@@ -19,12 +25,7 @@ Thanks goes to these wonderful people 👌
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://ivesvh.com"><img src="https://avatars.githubusercontent.com/u/103559331?v=4" width="100px;" alt="Syayid Al Aziz"/><br /><sub><b>Syayid Al Aziz</b></sub></a></td>
-  </tbody>
-</table>
+<img src="https://avatars.githubusercontent.com/u/103559331?v=4" width="100px;" alt="Syayid Al Aziz"/>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
