@@ -7,15 +7,14 @@
 Berita ringkas merupakan aplikasi inovatif yang membantu Anda mendapatkan esensi berita dengan cepat dan mudah. Project ini dikembangkan dengan dasar pengetahuan pada Naturale Languange Processing.
 Selain dapat membuat ringkasan secara otomatis, pada project ini juga dapat membuat kata kunci yang dambil dari kata-kata penting pada berita tersebut.
 
-## Documentation
+## Documentation 📖
 
 Berikut merupakan beberapa langkah-langkah untuk membuat sebuah ringkasan teks menggunakan konsep Naturale Languange Processing
 [Baca dokumentasi disini](https://syayidalaziz10.github.io/news_summarization/)
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people
-([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
+Thanks goes to these wonderful people 👌
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
